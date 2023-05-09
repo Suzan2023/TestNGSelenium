@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--- Bir XML dosyasi icinde birden fazla test icerisinde birden fazla class calistirilabilir-->
+<suite name="Sample Suite">
+
+    <test name="Sample Test">
+        <classes>
+            <class name="CW.tests.Day14.C05_TimeOut"></class>
+            <class name="CW.tests.Day14.C07_Assertions"></class>
+        </classes>
+    </test>
+
+    <test name="A Sample Test">
+        <classes>
+            <class name="CW.tests.Day14.C01_Annotations"></class>
+            <class name="CW.tests.Day14.C03_DependsOn"></class>
+        </classes>
+    </test>
+
+</suite>
