@@ -1,7 +1,6 @@
 package CW.tests.Day17;
 
 import CW.utilities.Driver;
-import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
