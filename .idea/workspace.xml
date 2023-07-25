@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd7c7c20-0529-4f72-8717-b08cab1a80c5" name="Changes" comment="classes added">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeworkDataProvider .xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Automationexercise/TestCase_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CW/tests/Day14/DependsOn_Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CW/tests/Day14/Hard_SoftAssert_Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CW/tests/Day14/Homework_TestngAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CW/tests/Day14/TestngAnnotations_Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CW/tests/Day16/Homework_DataProvider01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CW/tests/Day16/Homework_DataProvider02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CW/tests/Day16/Homework_DataProvider03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CW/tests/EllyHoca_TaskCozumu/T01_TestNGAnnotationsHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CW/tests/EllyHoca_TaskCozumu/T02_DependsOnHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CW/tests/EllyHoca_TaskCozumu/T03_HardSoftAssertHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CW/tests/EllyHoca_TaskCozumu/T04_DataProviderHomework1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CW/tests/EllyHoca_TaskCozumu/T05_DataProviderHomework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CW/tests/EllyHoca_TaskCozumu/T06_DataProviderHomework3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CW/tests/EllyHoca_TaskCozumu/T07_ParametersHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_RunningGroups.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03_RunningGroups.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CW/tests/Day14/C03_DependsOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CW/tests/Day14/C03_DependsOn.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d6a178f7-f92c-43e1-b78c-5d30d39bf078" />
+        <option name="url" value="https://github.com/Suzan2023/TestNGSelenium.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PLBQLke7NwnhuXf9MaZeH6aYXq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\suzan\IdeaProjects\TestNGSelenium\src\test\java\CW\tests\Day17" />
+      <recent name="C:\Users\suzan\IdeaProjects\TestNGSelenium\src\test\java\CW\utilities" />
+      <recent name="C:\Users\suzan\IdeaProjects\TestNGSelenium\src\test\java\CW\tests\EllyHoca_TaskCozumu" />
+      <recent name="C:\Users\suzan\IdeaProjects\TestNGSelenium\src\test\java\CW\tests\Day16" />
+      <recent name="C:\Users\suzan\IdeaProjects\TestNGSelenium\src\test\java\CW\tests\Day14" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CW.utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C08_HardSoftAssertions.soft">
+    <configuration name="C02_Priority" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CW.tests.Day14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CW.tests.Day14" />
+      <option name="MAIN_CLASS_NAME" value="CW.tests.Day14.C02_Priority" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_PageClassTest.withoutPageClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CW.tests.Day18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CW.tests.Day18" />
+      <option name="MAIN_CLASS_NAME" value="CW.tests.Day18.C04_PageClassTest" />
+      <option name="METHOD_NAME" value="withoutPageClass" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_Description" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CW.tests.Day14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CW.tests.Day14" />
+      <option name="MAIN_CLASS_NAME" value="CW.tests.Day14.C06_Description" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08_HardSoftAssertions.hard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CW.tests.Day14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CW.tests.Day14" />
+      <option name="MAIN_CLASS_NAME" value="CW.tests.Day14.C08_HardSoftAssertions" />
+      <option name="METHOD_NAME" value="hard" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08_HardSoftAssertions.soft" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CW.tests.Day14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CW.tests.Day14" />
+      <option name="MAIN_CLASS_NAME" value="CW.tests.Day14.C08_HardSoftAssertions" />
+      <option name="METHOD_NAME" value="soft" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C08_HardSoftAssertions.soft" />
+        <item itemvalue="TestNG.C08_HardSoftAssertions.hard" />
+        <item itemvalue="TestNG.C06_Description" />
+        <item itemvalue="TestNG.C02_Priority" />
+        <item itemvalue="TestNG.C04_PageClassTest.withoutPageClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd7c7c20-0529-4f72-8717-b08cab1a80c5" name="Changes" comment="" />
+      <created>1683226471457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683226471457</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Day14 classes added">
+      <created>1683499828971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683499828971</updated>
+    </task>
+    <task id="LOCAL-00002" summary="classes added">
+      <created>1683626181766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683626181766</updated>
+    </task>
+    <task id="LOCAL-00003" summary="classes added">
+      <created>1683729108405</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683729108405</updated>
+    </task>
+    <task id="LOCAL-00004" summary="classes added">
+      <created>1683740265791</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683740265791</updated>
+    </task>
+    <task id="LOCAL-00005" summary="classes added">
+      <created>1683789128936</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683789128936</updated>
+    </task>
+    <task id="LOCAL-00006" summary="classes added">
+      <created>1684059389207</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684059389207</updated>
+    </task>
+    <task id="LOCAL-00007" summary="classes added">
+      <created>1684061422105</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684061422105</updated>
+    </task>
+    <task id="LOCAL-00008" summary="classes added">
+      <created>1684242093855</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684242093855</updated>
+    </task>
+    <task id="LOCAL-00009" summary="classes added">
+      <created>1684242166255</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684242166255</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day14 classes added" />
+    <MESSAGE value="classes added" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes added" />
+  </component>
+</project>

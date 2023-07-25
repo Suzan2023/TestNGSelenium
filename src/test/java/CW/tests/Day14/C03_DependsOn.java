@@ -16,7 +16,7 @@ public class C03_DependsOn {
             dependsOnMethods = {"test01", "test03"}
     )
     public void test02(){
-        System.out.println("02");
+        System.out.println("02");  //test 2 nin calismasi 1 ve 3 un calismasina bagli.yani 1ve 3 calisirsa 2 calisir
     }
 
     @Test
